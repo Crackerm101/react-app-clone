@@ -1,0 +1,50 @@
+/* ==================== Google Font Style  ==================== */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+    /* ==================== Color Styles ==================== */
+    --font-lightStyleColor: #f0f3f5;
+    --font-darkStyleColor: #0000;
+    --bg-lightColor: #4cc9f0;
+    --bg-darkColor: #0d1117;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    border: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: var(--bg-darkColor);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+    line-height: 19px;
+    letter-spacing: normal;
+}
+span {
+    font-family: "Inter", sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+/* ==================== Bottom Styles ==================== */
+
+/* ==================== Loading Styles ==================== */
