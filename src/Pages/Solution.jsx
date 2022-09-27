@@ -1,7 +1,7 @@
 import React from "react";
 
 const Solution = () => {
-    return <div>New Design</div>;
+    return <div>New Design 2</div>;
 };
 
 export default Solution;
